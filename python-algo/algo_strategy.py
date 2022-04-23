@@ -10,6 +10,8 @@ import json
 Most of the algo code you write will be in this file unless you create new
 modules yourself. Start by modifying the 'on_turn' function.
 
+Test
+
 Advanced strategy tips: 
 
   - You can analyze action frames by modifying on_action_frame function
